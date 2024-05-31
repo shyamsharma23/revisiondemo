@@ -9,6 +9,7 @@ import java.util.List;
 
 //Controller class
 //new source code
+//for remote example
 @RestController
 @RequestMapping("/api/student")
 @CrossOrigin
